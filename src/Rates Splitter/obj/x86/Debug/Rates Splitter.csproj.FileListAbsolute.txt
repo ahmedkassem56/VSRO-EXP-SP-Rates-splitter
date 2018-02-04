@@ -1,0 +1,9 @@
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\bin\Debug\Rates Splitter.exe
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\bin\Debug\Rates Splitter.pdb
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\Rates_Splitter.MainForm.resources
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\Rates_Splitter.Properties.Resources.resources
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\Rates Splitter.exe
+C:\Users\AHMED\Documents\Visual Studio 2010\Projects\Rates Splitter\Rates Splitter\obj\x86\Debug\Rates Splitter.pdb
